@@ -1,0 +1,16 @@
+{
+  "name": "dusman-jarvis-v6",
+  "version": "1.0.0",
+  "description": "JARVIS v6 - AI Assistant with Chat Interface and Advanced Features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["AI", "Assistant", "JARVIS"],
+  "author": "Prashant Patel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
